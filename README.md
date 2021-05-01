@@ -100,7 +100,7 @@ $ kali-woo
 
 ***
 
-## Development by :
+## Development by : ![20210426_230759](https://user-images.githubusercontent.com/83497363/116785496-a93ebf00-aabb-11eb-8c23-1b4329c2afd7.jpg)
 
 ## Developer / Author: ABU TaHeR / [ABU-TaHER-TALUKDER](https://github.com/AbuBbh/Abu-BbH.git) 
 
