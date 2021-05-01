@@ -50,7 +50,7 @@ $ git clone https://github.com/AbuBbh/AbuBbh.git
 
 $ ls
 
-$ cd whale-phish
+$ cd woo-phish
 
 $ ls
 
@@ -58,7 +58,7 @@ $ chmod +x *
 
 $ ./setup
 
-$ whale
+$ woo
 
 ```
 
@@ -68,9 +68,9 @@ $ whale
 
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/AbuBbh/whale-phish.git && cd whale-phish && chmod +x * && ./setup
+$ git clone https://github.com/AbuBbh/Abu-BbH.git && cd woo-phish && chmod +x * && ./setup
 
-$ whale
+$ woo
 
 ```
 
@@ -78,15 +78,15 @@ $ whale
 
 ```
 
-$ git clone https://github.com/AbuBbh/whale-phish.git
+$ git clone https://github.com/AbuBbh/Abu-BbH.git
 
-$ cd whale-phish
+$ cd woo-phish
 
 $ chmod +x *
 
 $ ./kali-setup
 
-$ kali-whale
+$ kali-woo
 
 ```
 
@@ -102,11 +102,11 @@ $ kali-whale
 
 ## Development by :
 
-## Developer / Author: ABU TaHeR / [ABU-TaHER-TALUKDER](https://github.com/AbuBbh/whale-phish.git) 
+## Developer / Author: ABU TaHeR / [ABU-TaHER-TALUKDER](https://github.com/AbuBbh/Abu-BbH.git) 
 
 <h1> Developer's Image</h1>
 
-### [  Blackmaili Hacker Developers HTML Code](https://github.com/AbuBbh/whale-phish.git)
+### [  Blackmaili Hacker Developers HTML Code](https://github.com/AbuBbh/Abu-BbH.git) 
 
 ### আসসালামু আল্লাইকুম ##
 
@@ -134,7 +134,7 @@ $ kali-whale
 
 ## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:-
 
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/AbuBbh/whale-phish.git)
+[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/AbuBbh/Abu-BbH.git)
 
 ####################The_End##################
 
