@@ -64,9 +64,9 @@ $ woo
 
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/AbuBbh/whale-phish.git && cd whale-phish && chmod +x * && ./setup
+$ git clone https://github.com/AbuBbh/woo-phish.git && cd woo-phish && chmod +x * && ./setup
 
-$ whale
+$ woo
 
 ```
 
